@@ -1,0 +1,20 @@
+
+  .content-table.dataTable tbody tr.selected {
+    color: #3D392E;
+    background-color: #3D392E;
+    opacity: .85;
+  }
+
+  .page-item.active .page-link {
+    background-color: whitesmoke !important;
+    border-color: #3D392E;
+}
+.page-link {
+    color: #3D392E !important;
+}
+.dataTables_length select {
+  background-color: #756649;
+}
+.dataTables_filter input {
+  background-color: #756649;
+}
